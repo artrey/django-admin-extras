@@ -3,7 +3,7 @@
 For installing django-admin-extras, just run this command in your shell
 
 ```bash
-pip install django_admin_extras
+pip install django-admin-extras
 ```
 
 ### Settings

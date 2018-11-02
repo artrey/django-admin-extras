@@ -5,7 +5,7 @@ For installing graphene, just run this command in your shell
 
 .. code:: bash
 
-    pip install django_admin_extras
+    pip install django-admin-extras
 
 Settings
 --------
