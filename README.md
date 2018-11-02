@@ -3,7 +3,7 @@
 For installing django-admin-extras, just run this command in your shell
 
 ```bash
-pip install "graphene-django>=2.0"
+pip install django_admin_extras
 ```
 
 ### Settings

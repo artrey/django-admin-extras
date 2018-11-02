@@ -14,7 +14,7 @@ setup(
     name='django-admin-extras',
     version=version,
     description='Extra features for django.contrib.admin',
-    long_description=open('README.md').read(),
+    long_description=open('README.rst').read(),
     url='https://github.com/artrey/django-admin-extras.git',
     author='Alexander Ivanov',
     author_email='oz.sasha.ivanov@gmail.com',

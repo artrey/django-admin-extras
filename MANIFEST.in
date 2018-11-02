@@ -1,0 +1,2 @@
+include README.md LICENSE.txt
+recursive-include django_admin_extras/templates *
